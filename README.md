@@ -1,2 +1,9 @@
-# jargonfile
-Hacker's Jargon File
+# Hacker's Jargon File
+
+ _I am right now standing in the arms of giants._
+
+This repository is intended to serve as a resource for consulting and accessing information about the hacker's jargon file in different languages, anyone willing to translate or review their language's version is welcome. At the time of writing this README, I stumbled upon the Wayback Machine and found Yash Tulsyan's version 5.0.0. Consequently, I decided to copy and store it, and have begun creating a translated Spanish version for my spanish speaking peers who are passionate about hacker culture. I plan to contribute further by creating an updated version of this file, as a lot has changed since the last comprehensive review. I look forward to starting this project after completing the Spanish translation. Of course, contributions from others will be warmly welcomed at that time.
+
+ _Estoy parado en hombros de gigantes._
+
+Este repositorio tiene como intención servir como fuente de consulta y acceso al "jargon file" de los hackers en diferentes idiomas, cualquiera que desee traducir o revisar la versión en su idioma es bienvenido de hacerlo. Al momento de escribir este README me topé con la una versión 5.0.0 perdida de Yash Tulsyan en "Wayback Machine", así que decidí copiarla y almacenarla aquí, he iniciado una versión traducida al español para mis pares hispanohablantes que sienten pasión por la cultura hacker. Planeo contribuir creando una versión actualizada de este archivo, ya que mucho ha cambiado desde la última vez que alguien revisó este archivo en serio. Iniciaré ese proyecto después de iniciar la traducción al español, por supuesto que las contribuciones de otros serán más que bienvenidas entonces.

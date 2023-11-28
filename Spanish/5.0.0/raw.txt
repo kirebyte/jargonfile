@@ -1,0 +1,123 @@
+#======= ESTE ES EL ARCHIVO JARGON, VERSIÓN 5.0.0, 25 JUN 2011 =======#
+010
+001
+111
+
+Este es el Archivo Jargon, un compendio exhaustivo del argot de los hackers que ilumina muchos aspectos de la tradición, el folclore y el humor hackísticos. También ha sido conocido como el Nuevo Diccionario de los Hackers.
+
+Este documento (el Archivo Jargon) es de dominio público, para ser usado, compartido y modificado libremente. No hay (intencionadamente) restricciones legales sobre lo que puedes hacer con él, pero hay tradiciones sobre su uso adecuado a las que muchos hackers están bastante apegados. Por favor, extiende la cortesía de una cita adecuada cuando cites el Archivo, idealmente con un número de versión, ya que cambiará y crecerá con el tiempo. (Ejemplos de forma de cita apropiada: "Archivo Jargon 5.0.0" o "El Archivo Jargon de hackers en línea, versión 5.0.0, 25 JUN 2011".)
+
+El Archivo Jargon es un patrimonio común de la cultura hacker. A lo largo de los años, varios individuos han dedicado considerable tiempo al mantenimiento del Archivo y han sido reconocidos por la red en general como editores del mismo. Las responsabilidades editoriales incluyen: recopilar contribuciones y sugerencias de otros; buscar información corroborante; hacer referencias cruzadas de entradas relacionadas; mantener el archivo en un formato consistente; y anunciar y distribuir versiones actualizadas periódicamente. Los editores voluntarios actuales incluyen:
+
+Yash Tulsyan yashtulsyan@gmail.com
+
+Aunque no es obligatorio hacerlo, se considera de buena forma consultar con un editor antes de citar el Archivo en una obra publicada o producto comercial. Podemos tener información adicional que te sería útil y podemos ayudarte a enmarcar tu cita para reflejar no solo la letra del Archivo sino también su espíritu.
+
+Todas las contribuciones y sugerencias sobre este archivo enviadas a un editor voluntario son recibidas con gratitud y se considerarán, a menos que se indique lo contrario, como donaciones libremente otorgadas para su posible uso como parte de este archivo de dominio público.
+
+De vez en cuando, una instantánea de este archivo ha sido pulida, editada y formateada para su publicación comercial con la cooperación de los editores voluntarios y la comunidad hacker en general. Si deseas tener una copia impresa encuadernada de este archivo, puede resultarte conveniente comprar una de estas. A menudo contienen material adicional no encontrado en las versiones en línea. Las dos ediciones 'autorizadas' hasta ahora se describen en la sección de Historial de Revisiones; puede haber más en el futuro.
+
+    Introducción: El propósito y alcance de este Archivo
+    Unos Pocos Términos: De Slang (argot), Jargon (jerga técnica) y Techspeak (lenguaje técnico)
+    Historial de Revisiones: Cómo llegó a ser el Archivo
+
+    Construcción de Jerga: Cómo los hackers inventan jerga
+    Estilo de Escritura de los Hackers: Cómo escriben
+    Citas de Correo Electrónico: Y el Problema de Inclusión
+    Estilo de Habla de los Hackers: Cómo hablan los hackers
+    Estilo Internacional: Algunas notas sobre el uso fuera de EE. UU.
+    Hablar de Lamers: Crackers, Phreaks y Lamers
+
+    Guía de Pronunciación: Cómo leer las claves de pronunciación
+    Otras Convenciones del Léxico: Cómo leer las entradas del léxico
+    Formato para Nuevas Entradas: Cómo enviar nuevas entradas para el Archivo
+
+    El Léxico Jargon: El léxico en sí
+
+    Apéndice A: Folklore Hacker
+    Apéndice B: Un Retrato de J. Random Hacker
+    Apéndice C: Ayudando a Crecer la Cultura Hacker
+    Bibliografía: Para tu disfrute adicional
+
+============================================================================================================================
+Introducción: El propósito y alcance de este Archivo
+
+Este documento es una colección de términos de argot utilizados por varias subculturas de hackers informáticos. Aunque se incluye algo de material técnico para dar contexto y sabor, no es un diccionario técnico; lo que describimos aquí es el lenguaje que los hackers usan entre ellos para divertirse, comunicarse socialmente y debatir técnicamente.
+
+La 'cultura hacker' es en realidad una colección de subculturas interconectadas de manera laxa que, sin embargo, es consciente de algunas experiencias, raíces y valores compartidos importantes. Tiene sus propios mitos, héroes, villanos, epopeyas folclóricas, bromas internas, tabúes y sueños. Debido a que los hackers como grupo son personas particularmente creativas que se definen en parte por el rechazo de los valores y hábitos de trabajo 'normales', tienen tradiciones ricas y conscientes para una cultura intencional de menos de 60 años.
+
+Como es habitual con el argot, el vocabulario especial de los hackers ayuda a mantener unida su cultura: ayuda a los hackers a reconocer los lugares de cada uno en la comunidad y expresa valores y experiencias compartidos. También, como de costumbre, no conocer el argot (o usarlo inapropiadamente) define a uno como un extraño, un mundano o (lo peor de todo en el vocabulario hackístico) posiblemente incluso un trajeado. Todas las culturas humanas usan el argot de esta manera triple: como una herramienta de comunicación, inclusión y exclusión.
+
+Entre los hackers, sin embargo, el argot tiene un aspecto más sutil, paralelo quizás al argot de los músicos de jazz y algunos tipos de artistas plásticos, pero difícil de detectar en la mayoría de las culturas técnicas o científicas; partes de él son un código para estados de conciencia compartidos. Hay toda una gama de estados alterados y posturas mentales de resolución de problemas básicos para el hacking de alto nivel que no encajan en la realidad lingüística convencional mejor que un solo de Coltrane o una de las composiciones de 'trompe l'oeil' de Maurits Escher (Escher es un favorito de los hackers), y el argot de los hackers codifica estas sutilezas de muchas maneras no obvias. Como un ejemplo simple, toma la distinción entre un kluge y una solución elegante, y las diferentes connotaciones adjuntas a cada una. La distinción no solo tiene significado de ingeniería; se remonta a la naturaleza de los procesos generativos en el diseño de programas y afirma algo importante sobre dos tipos diferentes de relación entre el hacker y el hack. El argot de los hackers es inusualmente rico en implicaciones de este tipo, de matices y subtextos que iluminan la psique hackística.
+
+Pero hay más. Los hackers, como regla, aman los juegos de palabras y son muy conscientes e inventivos en su uso del lenguaje. Estos rasgos parecen ser comunes en los niños pequeños, pero la máquina que impone la conformidad a la que nos complace llamar un sistema educativo los saca de la mayoría de nosotros antes de la adolescencia. Por lo tanto, la invención lingüística en la mayoría de las subculturas del Occidente moderno es un proceso titubeante y en gran parte inconsciente. Los hackers, en cambio, consideran la formación y el uso del argot como un juego para ser jugado por placer consciente. Sus invenciones, por lo tanto, muestran una combinación casi única del disfrute neotenoso del juego de lenguaje con la discriminación de una inteligencia educada y poderosa. Además, los medios electrónicos que los unen son conexiones 'calientes' y fluidas, bien adaptadas tanto para la difusión de nuevo argot como para la eliminación despiadada de especímenes débiles y superados. Los resultados de este proceso nos dan quizás una visión única e intensa de la evolución lingüística en acción.
+
+El argot de los hackers también desafía algunas suposiciones lingüísticas y antropológicas comunes. Por ejemplo, recientemente se ha puesto de moda hablar de comunicación de 'bajo contexto' versus 'alto contexto', y clasificar culturas por el nivel de contexto preferido de sus idiomas y formas de arte. Generalmente se afirma que la comunicación de bajo contexto (caracterizada por la precisión, claridad y completitud de enunciados autocontenidos) es típica en culturas que valoran la lógica, la objetividad, el individualismo y la competencia; por contraste, la comunicación de alto contexto (elíptica, emotiva, llena de matices, multimodal, altamente codificada) se asocia con culturas que valoran la subjetividad, el consenso, la cooperación y la tradición. ¿Qué debemos hacer entonces con el mundo hacker, que está tematizado en torno a la interacción extremadamente de bajo contexto con computadoras y exhibe valores principalmente de "bajo contexto", pero cultiva un estilo de argot casi absurdamente de alto contexto?
+
+La intensidad y conciencia de la invención hackística hacen que una compilación de argot hacker sea una ventana particularmente efectiva a la cultura circundante, y de hecho, esta es la última versión de una compilación en evolución llamada el 'Archivo Jargon', mantenido por los propios hackers durante más de 36 años. Este (como sus ancestros) es principalmente un léxico, pero también incluye entradas temáticas que recopilan información de fondo o lateral sobre la cultura hacker que sería incómodo tratar de subsumir bajo definiciones individuales de argot.
+
+Aunque el formato es el de un volumen de referencia, se pretende que el material sea agradable de hojear. Incluso un completo extraño debería encontrar al menos una sonrisa en casi cada página, y mucho que es provocador de pensamiento y divertido. Pero también es cierto que los hackers usan juegos de palabras humorísticos para hacer declaraciones fuertes, a veces combativas, sobre lo que sienten. Algunas de estas entradas reflejan los puntos de vista de lados opuestos en disputas que han sido genuinamente apasionadas; esto es deliberado. No hemos intentado moderar ni embellecer estas disputas; más bien hemos intentado asegurar que las vacas sagradas de todos sean igualmente corneadas, imparcialmente. El compromiso no es particularmente una virtud hackística, pero la presentación honesta de puntos de vista divergentes sí lo es.
+
+El lector con un mínimo de antecedentes informáticos que encuentre algunas referencias técnicamente incomprensibles puede ignorarlas de forma segura. No hemos sentido que sea necesario ni deseable eliminar todas estas; ellas también contribuyen al sabor, y uno de los principales públicos previstos para este documento: hackers novatos que ya están parcialmente dentro de la cultura, se beneficiarán de ellas.
+
+Una selección de elementos más largos de folclore y humor hacker está incluida en el Apéndice A. La atención del lector 'externo' se dirige particularmente al Retrato de J. Random Hacker en el Apéndice B. El Apéndice C, la Bibliografía, enumera algunas obras no técnicas que han influido o descrito la cultura hacker.
+
+Dado que el hackerdom es una cultura intencional (una a la que cada individuo debe elegir unirse por acción), no debería sorprender que la línea entre descripción e influencia pueda volverse más que un poco borrosa. Las versiones anteriores del Archivo Jargon han jugado un papel central en la difusión del lenguaje y la cultura hacker a poblaciones cada vez más grandes, y esperamos y deseamos que esta haga lo mismo.
+
+============================================================================================================================
+De Slang (argot), Jargon (jerga técnica) y Techspeak (lenguaje técnico)
+
+Los lingüistas suelen referirse al lenguaje informal como `slang' y reservan el término `jargon' para los vocabularios técnicos de diversas ocupaciones. Sin embargo, el antecesor de esta colección se llamó el `Jargon File' (Archivo Jargon), y el argot de los hackers se denomina tradicionalmente `the jargon'. Por lo tanto, al hablar sobre el jargon no hay una manera conveniente de distinguirlo de lo que un lingüista llamaría "la jerga" de los hackers: el vocabulario formal que aprenden de libros de texto, documentos técnicos y manuales.
+
+Para complicar aún más una situación confusa, la línea entre el argot de los hackers y el vocabulario técnico de programación y ciencias de la computación es difusa y cambia con el tiempo. Además, este vocabulario es compartido con una cultura técnica más amplia de programadores, muchos de los cuales no son hackers y no hablan ni reconocen el argot hackístico.
+
+En consecuencia, este léxico intentará ser lo más preciso que los hechos del uso permitan sobre las distinciones entre tres categorías:
+
+    `slang': lenguaje informal del inglés convencional o subculturas no técnicas (motociclistas, fans del rock, surfistas, etc.).
+    `jargon': sin calificador, denota lenguaje informal y `argotizado' peculiar o predominantemente encontrado entre los hackers, el tema de este léxico.
+    `techspeak': el vocabulario técnico formal de programación, ciencias de la computación, electrónica y otros campos conectados con el hacking.
+
+Esta terminología se usará de manera consistente en el resto de este léxico.
+
+La distinción entre jargon/techspeak es delicada. Mucho del techspeak se originó como jargon, y hay una constante incorporación de jargon en el techspeak. Por otro lado, mucho jargon surge de la generalización excesiva de términos de techspeak (hay más sobre esto en la sección de Construcción de Jargon a continuación).
+
+En general, hemos considerado techspeak cualquier término que comunica principalmente por una denotación bien establecida en libros de texto, diccionarios técnicos o documentos de estándares.
+
+Algunos términos obviamente de techspeak (nombres de sistemas operativos, lenguajes o documentos) se enumeran cuando están vinculados con el folclore hacker que no se cubre en fuentes formales, o a veces para transmitir antecedentes históricos críticos necesarios para comprender otras entradas a las que se hacen referencias cruzadas. También se enumeran algunos otros sentidos de techspeak de palabras de jargon para aclarar los sentidos de jargon; donde el texto no especifica que se está discutiendo un sentido técnico directo, estos están marcados con `[techspeak]' como una etimología. Algunas entradas tienen un sentido principal marcado de esta manera, con significados de jargon posteriores explicados en términos de él.
+
+También hemos tratado de indicar (cuando se conoce) los orígenes aparentes de los términos. Los resultados son probablemente la información menos confiable en el léxico, por varias razones. Por un lado, es bien sabido que muchos usos hackísticos se han reinventado independientemente varias veces, incluso entre los neologismos más oscuros y complejos. A menudo parece que los procesos generativos subyacentes a la formación del jargon hackístico tienen una lógica interna tan poderosa como para crear un paralelismo sustancial a través de culturas separadas e incluso en diferentes idiomas. Por otro lado, las redes tienden a propagar innovaciones tan rápidamente que a menudo es imposible determinar el `primer uso'. Y, finalmente, compendios como este alteran lo que observan al estampar implícitamente aprobación cultural en términos y ampliar su uso.
+
+A pesar de estos problemas, la colección organizada de historia oral relacionada con el jargon para las nuevas compilaciones nos ha permitido poner fin a bastantes etimologías populares, dar crédito donde se debe y aclarar la historia temprana de muchos hackismos importantes como kluge, cruft y foo. Creemos que los lexicógrafos especialistas encontrarán muchas de las notas históricas más que casualmente instructivas.
+
+============================================================================================================================
+Historial de Revisiones: Cómo llegó a ser el Archivo
+
+Historial de Revisiones
+
+El Jargon File original fue una colección de jargon de hackers de culturas técnicas, incluyendo el MIT AI Lab, el Stanford AI lab (SAIL) y otros de las antiguas comunidades ARPANET AI/LISP/PDP-10 incluyendo Bolt, Beranek and Newman (BBN), Carnegie-Mellon University (CMU) y Worcester Polytechnic Institute (WPI).
+
+El Jargon File (de aquí en adelante referido como `jargon-1' o `el Archivo') fue iniciado por Raphael Finkel en Stanford en 1975. Desde ese momento hasta que se desconectó definitivamente la computadora SAIL en 1991, el Archivo fue nombrado AIWORD.RF[UP,DOC] allí. Algunos términos en él se remontan considerablemente antes (frob y algunos sentidos de moby, por ejemplo, se remontan al Tech Model Railroad Club en MIT y se cree que datan al menos de principios de los 60s). Las revisiones de jargon-1 fueron todas sin numerar y pueden considerarse colectivamente `Versión 1'.
+
+En 1976, Mark Crispin, habiendo visto un anuncio sobre el Archivo en la computadora SAIL, FTPeó una copia del Archivo a MIT. Notó que estaba lejos de limitarse a `palabras de AI' y así guardó el archivo en su directorio como AI:MRC;SAIL JARGON.
+
+El archivo fue rápidamente renombrado a JARGON > (el `>' causaba versionamiento bajo ITS) mientras una ráfaga de mejoras eran hechas por Mark Crispin y Guy L. Steele Jr. Desafortunadamente, en medio de toda esta actividad, nadie pensó en corregir el término `jargon' a `slang' hasta que la compilación ya se había hecho ampliamente conocida como el Jargon File.
+
+Raphael Finkel se retiró de la participación activa poco después y Don Woods se convirtió en el contacto SAIL para el Archivo (que posteriormente se mantuvo en duplicado en SAIL y MIT, con resincronizaciones periódicas).
+
+El Archivo se expandió a trompicones hasta alrededor de 1983; Richard Stallman fue prominente entre los contribuyentes, añadiendo muchos neologismos relacionados con MIT e ITS.
+
+En la primavera de 1981, un hacker llamado Charles Spurgeon consiguió publicar una gran parte del Archivo en "CoEvolution Quarterly" de Stewart Brand (edición 29, páginas 26-35) con ilustraciones de Phil Wadler y Guy Steele (incluyendo un par de caricaturas de Crunchly). Esto parece haber sido la primera publicación en papel del Archivo.
+
+Una versión tardía de jargon-1, ampliada con comentarios para el mercado masivo, fue editada por Guy Steele en un libro publicado en 1983 como "The Hacker's Dictionary" (Harper & Row CN 1082, ISBN 0-06-091082-8). Los otros editores de jargon-1 (Raphael Finkel, Don Woods y Mark Crispin) contribuyeron a esta revisión, al igual que Richard M. Stallman y Geoff Goodfellow. Este libro (ahora descatalogado) se menciona aquí como `Steele-1983' y esos seis como los coautores de Steele-1983.
+
+Poco después de la publicación de Steele-1983, el Archivo efectivamente dejó de crecer y cambiar. Originalmente, esto se debió a un deseo de congelar temporalmente el archivo para facilitar la producción de Steele-1983, pero las condiciones externas hicieron que la congelación `temporal' se volviera permanente.
+
+La cultura del AI Lab fue golpeada duramente a finales de los 70 por recortes de financiación y la consiguiente decisión administrativa de usar hardware y software respaldados por proveedores en lugar de soluciones caseras siempre que fuera posible. En MIT, la mayoría del trabajo de AI había pasado a Máquinas LISP dedicadas. Al mismo tiempo, la comercialización de la tecnología de AI atrajo a algunos de los mejores y más brillantes del AI Lab a startups a lo largo de la Ruta 128 en Massachusetts y en el oeste en Silicon Valley. Las startups construyeron máquinas LISP para MIT; la computadora central MIT-AI se convirtió en un sistema TWENEX en lugar de un host para el amado ITS de los hackers de AI.
+
+El Stanford AI Lab había dejado efectivamente de existir para 1980, aunque la computadora SAIL continuó como un recurso del Departamento de Ciencias de la Computación hasta 1991. Stanford se convirtió en un importante sitio de TWENEX, operando en un punto más de una docena de sistemas TOPS-20; pero para mediados de los 80s, la mayor parte del trabajo de software interesante se estaba haciendo en el estándar emergente de BSD Unix.
+
+En abril de 1983, las culturas centradas en PDP-10 que habían nutrido el Archivo recibieron un golpe mortal con la cancelación del proyecto Júpiter en Digital Equipment Corporation. Los compiladores del Archivo, ya dispersos, pasaron a otras cosas. Steele-1983 fue en parte un monumento a lo que sus autores pensaban era una tradición moribunda; nadie involucrado se dio cuenta en ese momento de cuán amplia iba a ser su influencia.
+
+Para mediados de los 80s, el contenido del Archivo estaba desactualizado, pero la leyenda que había crecido alrededor de él nunca murió del todo. El libro y copias electrónicas obtenidas del ARPANET circularon incluso en culturas muy alejadas de MIT y Stanford; el contenido ejerció una fuerte e continua influencia en el lenguaje y el humor de los hackers. Incluso mientras el advenimiento de la microcomputadora y otras tendencias impulsaban una tremenda expansión del mundo hacker, el Archivo (y materiales relacionados como los Algunos Koans de AI en el Apéndice A) llegaron a ser vistos como una especie de épica sagrada, una Materia de Bretaña de la cultura hacker que narra las hazañas heroicas de los Caballeros del Laboratorio. El ritmo de cambio en el mundo hacker en general se aceleró tremendamente, pero el Jargon File, habiendo pasado de documento vivo a ícono, se mantuvo esencialmente intacto durante siete años.
+
+Eric S. Raymond <esr@snark.thyrsus.com> mantuvo el Archivo con asistencia de Guy L. Steele Jr. <gls@think.com> entre 1991 y 2011. Sin embargo, a partir de 2003, este archivo fue contaminado por la política de Eric Raymond (como señalaron hackers frustrados, incluyendo a Richard Stallman). Las quejas fueron muchas (algunas se pueden encontrar aquí), y, hasta 2011 no hubo revisiones, mayores o menores. Las diversas revisiones se mencionan aquí por sus números de archivo, pero el período de Raymond en general se mencionará en adelante como "ESR-2003".
